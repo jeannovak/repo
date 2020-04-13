@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+Repo for documents, commands, exploits, references and useful stuff in general for CTFs and Pentesting
