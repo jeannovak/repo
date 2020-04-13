@@ -1,4 +1,9 @@
 ---
+title: SAMBA
+author: S0lrak
+date: 2020-04-13
+category: Windows Stuff
+layout: post
 description: Useful Samba enumeration and exploitation
 ---
 
